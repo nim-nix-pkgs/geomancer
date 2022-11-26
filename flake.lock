@@ -191,11 +191,11 @@
       },
       "locked": {
         "dir": "v0_7_0",
-        "lastModified": 1667310280,
-        "narHash": "sha256-XKoFCjmdItOSTHtNczRX/5CgxUqHvWFC9P2m0U8augY=",
+        "lastModified": 1668791970,
+        "narHash": "sha256-VcdPN8/OVot1DBq2ByHGG4GOmiAbzrWWa1fYGBD5TRc=",
         "owner": "nim-nix-pkgs",
         "repo": "docopt",
-        "rev": "606adbe5dadb0fea23111fc3875fd2087ad32ec0",
+        "rev": "7af69468b96c071e3f0f1d1a434e05b53e6d8647",
         "type": "github"
       },
       "original": {
@@ -315,11 +315,11 @@
       },
       "locked": {
         "dir": "1_0",
-        "lastModified": 1669417703,
-        "narHash": "sha256-3msZb+tuO33FLg97zcYb/h3MGK+Xp6YZ4f1vqLixnjc=",
+        "lastModified": 1669432682,
+        "narHash": "sha256-Z0d28NI1GKkiSpAzTLFNE6mSzgwLXrcsWAO7At3AGoA=",
         "owner": "nim-nix-pkgs",
         "repo": "geomancer",
-        "rev": "17f40151b518794534dbbeb20da6f372e7e22301",
+        "rev": "7f9b7160acec7aea1f8ef032fdf3a03f48e8b7d7",
         "type": "github"
       },
       "original": {
@@ -343,11 +343,11 @@
       },
       "locked": {
         "dir": "1_0_1",
-        "lastModified": 1669417703,
-        "narHash": "sha256-3msZb+tuO33FLg97zcYb/h3MGK+Xp6YZ4f1vqLixnjc=",
+        "lastModified": 1669432682,
+        "narHash": "sha256-Z0d28NI1GKkiSpAzTLFNE6mSzgwLXrcsWAO7At3AGoA=",
         "owner": "nim-nix-pkgs",
         "repo": "geomancer",
-        "rev": "17f40151b518794534dbbeb20da6f372e7e22301",
+        "rev": "7f9b7160acec7aea1f8ef032fdf3a03f48e8b7d7",
         "type": "github"
       },
       "original": {
@@ -371,11 +371,11 @@
       },
       "locked": {
         "dir": "1_0_2",
-        "lastModified": 1669417703,
-        "narHash": "sha256-3msZb+tuO33FLg97zcYb/h3MGK+Xp6YZ4f1vqLixnjc=",
+        "lastModified": 1669432682,
+        "narHash": "sha256-Z0d28NI1GKkiSpAzTLFNE6mSzgwLXrcsWAO7At3AGoA=",
         "owner": "nim-nix-pkgs",
         "repo": "geomancer",
-        "rev": "17f40151b518794534dbbeb20da6f372e7e22301",
+        "rev": "7f9b7160acec7aea1f8ef032fdf3a03f48e8b7d7",
         "type": "github"
       },
       "original": {
@@ -399,11 +399,11 @@
       },
       "locked": {
         "dir": "1_0_3",
-        "lastModified": 1669417703,
-        "narHash": "sha256-3msZb+tuO33FLg97zcYb/h3MGK+Xp6YZ4f1vqLixnjc=",
+        "lastModified": 1669432682,
+        "narHash": "sha256-Z0d28NI1GKkiSpAzTLFNE6mSzgwLXrcsWAO7At3AGoA=",
         "owner": "nim-nix-pkgs",
         "repo": "geomancer",
-        "rev": "17f40151b518794534dbbeb20da6f372e7e22301",
+        "rev": "7f9b7160acec7aea1f8ef032fdf3a03f48e8b7d7",
         "type": "github"
       },
       "original": {
@@ -427,11 +427,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1669417703,
-        "narHash": "sha256-3msZb+tuO33FLg97zcYb/h3MGK+Xp6YZ4f1vqLixnjc=",
+        "lastModified": 1669432682,
+        "narHash": "sha256-Z0d28NI1GKkiSpAzTLFNE6mSzgwLXrcsWAO7At3AGoA=",
         "owner": "nim-nix-pkgs",
         "repo": "geomancer",
-        "rev": "17f40151b518794534dbbeb20da6f372e7e22301",
+        "rev": "7f9b7160acec7aea1f8ef032fdf3a03f48e8b7d7",
         "type": "github"
       },
       "original": {
@@ -635,11 +635,11 @@
       },
       "locked": {
         "dir": "v0_20_0",
-        "lastModified": 1668777440,
-        "narHash": "sha256-kEY1LrvbPmC/lsw6CkEc+w1ZQNz8TUuu+BLZjg1Ir1o=",
+        "lastModified": 1669432512,
+        "narHash": "sha256-f72EAM1q9JkkBVmyPDOC1XWniURlqps3oCUfxbRl2PE=",
         "owner": "nim-nix-pkgs",
         "repo": "regex",
-        "rev": "9126df87f46b200193631b35e9b8400e21144d62",
+        "rev": "b4679f1ede9187878cd4a753b942b107cc2923b0",
         "type": "github"
       },
       "original": {
@@ -817,11 +817,11 @@
     "src-geomancer-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1659975795,
-        "narHash": "sha256-hSI09X5cVBO/st9pcO1wgA9jl6uKE5UN6cm7/0WCX4A=",
+        "lastModified": 1668980852,
+        "narHash": "sha256-/Hf17BKafMW0XerlnmofBnbCRdySJ8X/mgFVhWMzenM=",
         "owner": "VitorGoatman",
         "repo": "geomancer",
-        "rev": "a3abcd692d11c30a9098db517b1aee39a4155e87",
+        "rev": "5caf0fd970b6e7943f6438ba21ea04cafaf34699",
         "type": "github"
       },
       "original": {
